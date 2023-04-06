@@ -1,5 +1,5 @@
 ### Hi👋
-👨‍🎓 I'm second year Computer Science and Inteligent Systems student at AGH UST<br>💻 Programming mainly in Python and C#<br>🌱 Currently learning Django<br>🤔 Interested in Machine Learning and Data Science<br>📫 How to reach me: witek.nowogorski@gmail.com
+👨‍🎓 I'm second year Computer Science and Inteligent Systems student at AGH UST<br>💻 Programming mainly in Python and C#<br>🌱 Currently mastering Django<br>🤔 Interested in Machine Learning and Data Science<br>📫 How to reach me: witek.nowogorski@gmail.com
 
 
 # 💻 Tech Stack:
