@@ -1,46 +1,11 @@
-<div align="center">
-<img src="" align="center" style="width: 100%" />
-</div>  
-  
+
+# Hi👋
 
 - 👨‍🎓I'm second year Computer Science and Inteligent Systems student at AGH UST  
-  
-
 - 💻 Programming mainly in Python and C#  
-  
-
 - 🌱 Currently mastering Django  
-  
-
 - 🤔 Interested in Machine Learning and Data Science  
-  
-
-<br/>  
-
-
-## My Skill Set  
-<table><tr><td valign="top" width="33%">
-
-
-
-</td><td valign="top" width="33%">
-
-
-
-</td><td valign="top" width="33%">
-
-
-
-</td></tr></table>  
-
-<br/>  
-
-
-## Connect with me  
-  
-
-<br/>  
-
+- 📫 How to reach me: witek.nowogorski@gmail.com
 
 ## Github Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=witek3100&hide_border=true&layout=compact" align="center" /></div>  
