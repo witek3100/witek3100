@@ -9,12 +9,11 @@
 
  
 ## 📊 GitHub Stats:
-<center>
+<p align="center">
  ![](https://github-readme-streak-stats.herokuapp.com/?user=witek3100&theme=onedark&hide_border=false)
-<br>
+ \n
  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=witek3100&theme=onedark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-</center>
-
+</p>
 
 
 
