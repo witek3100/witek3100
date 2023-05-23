@@ -9,9 +9,10 @@
 
  
 ## 📊 GitHub Stats:
-
- ![](https://github-readme-streak-stats.herokuapp.com/?user=witek3100&theme=onedark&hide_border=false)
+![](https://github-readme-stats.vercel.app/api?username=witek3100&theme=dracula&show_icons=true&hide_border=false&count_private=true)
 <br>
- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=witek3100&theme=onedark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-streak-stats.herokuapp.com/?user=witek3100&theme=dracula&hide_border=false)
+<br>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=witek3100&theme=dracula&show_icons=true&hide_border=false&layout=compact)
 
 
