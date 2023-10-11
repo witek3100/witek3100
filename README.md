@@ -2,7 +2,6 @@
 # Hi👋
 
 - I'm a third-year Computer Science and Intelligent Systems student at AGH University of Cracow, Poland. 
--  Django developer at https://softwarelogic.co/
 - How to reach me: witek.nowogorski@gmail.com | [Linkedin](https://www.linkedin.com/in/wnowogorski/) | [Gitlab](https://gitlab.com/witek3100)
 -   [Kaggle profile](https://www.kaggle.com/witoldnowogrski)   
  
