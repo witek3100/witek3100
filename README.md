@@ -1,10 +1,13 @@
 
-# Hi👋
+# About me
+### :arrow_right: Junior AI Engineer at [INK Solutions](https://inksoftware.house/). 
+ ### :arrow_right: Third-year Computer Science and Intelligent Systems student at AGH University of Cracow.
 
-I'm a third-year CS student at AGH University of Cracow and Junior AI Engineer at [INK Solutions](https://inksoftware.house/). 
 
- witek.nowogorski@gmail.com | [Linkedin](https://www.linkedin.com/in/wnowogorski/) | [Kaggle](https://www.kaggle.com/witoldnowogrski)   
-
+# Contact
+ ### :arrow_right: witek.nowogorski@gmail.com 
+ ### :arrow_right: [Linkedin](https://www.linkedin.com/in/wnowogorski/)
+ ### :arrow_right: [Kaggle](https://www.kaggle.com/witoldnowogrski)   
 ![](https://github-readme-stats.vercel.app/api?username=witek3100&theme=dracula&show_icons=true&hide_border=false&count_private=true)
 <br>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=witek3100&theme=dracula&hide_border=false)
